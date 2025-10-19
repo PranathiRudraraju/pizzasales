@@ -41,3 +41,8 @@ Revenue by Category and Size
 📊 Dashboard link:https://app.powerbi.com/view?r=eyJrIjoiZWU0Nzc0NDMtZmQwNy00MjA0LTliYzAtNzJlNWQxZWNjNDAwIiwidCI6IjJhMjM4OGZjLTUyODctNDhiNy04NWMyLTFkYTI0NGM5NzJmYSJ9 
 
 📂 Files Included
+
+pizza data.pbix – Power BI file
+pizza_sales.csv – Dataset used
+README.md – Documentation
+Dashboard.png
