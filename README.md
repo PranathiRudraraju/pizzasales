@@ -43,6 +43,9 @@ Revenue by Category and Size
 📂 Files Included
 
 pizza data.pbix – Power BI file
+
 pizza_sales.csv – Dataset used
+
 README.md – Documentation
+
 Dashboard.png
